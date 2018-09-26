@@ -18,7 +18,10 @@ public class MainMenuBar extends JMenu{
     private JMenuBar menu;
     private JMenu menu1;
     private JMenuItem menu2, menu3;
+<<<<<<< HEAD
     private MainThread thread;
+=======
+>>>>>>> origin/master
     
     public MainMenuBar(){
         menu = new JMenuBar();
